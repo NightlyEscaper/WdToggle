@@ -1,0 +1,17 @@
+{
+    "name": "WdToggle",
+    "version": "0.0.1",
+    "command_name": "wdtoggle",
+    "extension_author": "outflanknl",
+    "original_author": "outflanknl",
+    "repo_url": "https://github.com/NightlyEscaper/WdToggle",
+    "help": "Enable WDigest credential caching.",
+    "entrypoint": "entrypoint",
+    "files": [
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "path": "WdToggle.dll"
+        }
+    ]
+}
