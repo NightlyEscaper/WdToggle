@@ -6,7 +6,7 @@
     "original_author": "outflanknl",
     "repo_url": "https://github.com/NightlyEscaper/WdToggle",
     "help": "Enable WDigest credential caching.",
-     "depends_on": "coff-loader",
+    "depends_on": "coff-loader",
     "entrypoint": "go",
     "files": [
         {
