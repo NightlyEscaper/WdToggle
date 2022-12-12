@@ -11,7 +11,7 @@
         {
             "os": "windows",
             "arch": "amd64",
-            "path": "WdToggle.dll"
+            "path": "WdToggle.o"
         }
     ]
 }
